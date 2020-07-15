@@ -19,5 +19,5 @@ GCC版本 4.3.2
 ~~~
   # arm-linux-gcc -o [编译后的文件名] [需要编译的文件]
   eg：
-  # arm-linux-gcc -o framebuffer_color04 .cpp
+  # arm-linux-gcc -o test framebuffer_color04.cpp
 ~~~
